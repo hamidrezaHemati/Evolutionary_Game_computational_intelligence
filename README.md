@@ -1,17 +1,10 @@
 # EvolutionaryGames
-
-A project designed for Computational Intelligence course. <br> <br>
-In this project, a simple 2D minigame is implemented. <br>
-The agent needs to learn to maneuver via neural network + evolution.
-
+This code contains 3 video games that you can get score by piloting a helicopter. Moreover, using the concept of Genetic Algorithms the AI for this game was created so that if you play the game in AI mode then game lears to get better scores as it keeps playing.
 
 ## Game Modes
 Helicopter             |  Gravity          |  Thrust
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Helicopter](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/helicopter.png?raw=true)  |  ![Gravity](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/gravity.png?raw=true) | ![Thrust](https://github.com/HosseinZaredar/EvolutionaryGames/blob/main/screenshots/thrust.png?raw=true)
 
-## Contributors
-- [Hossein Zaredar](https://github.com/HosseinZaredar)
-- [Matin Tavakoli](https://github.com/MatinTavakoli/) <br>
-- Many thanks to [Parnian Rad](https://github.com/Parnian-Rad)
+
 
